@@ -1,8 +1,3 @@
-CS202: PROGRAMMING PARADIGMS & PRAGMATICS
-Lab 8: Compiler Design for CUCU
-Name-Muskan
-Entry No. - 2020CSB1100
-
 Commands in the terminal for running the CUCU compiler:
 bison -d cucu.y
 flex cucu.l
